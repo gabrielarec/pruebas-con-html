@@ -1,0 +1,20 @@
+.barra1{
+    display:block;
+    display: inline;
+    text-align: center;
+
+
+}
+
+.titulo1{
+    color: aquamarine;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(167, 153, 180);
+}
+
+img{
+    width: 10%;
+}
